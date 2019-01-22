@@ -9,7 +9,7 @@
 
 * [텐서플로우](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html) 
 
-[pip](https://pypi.python.org/pypi/pip)를 이용해 설치합니다 
+[pip](https://pypi.python.org/pypi/pip)를 이용해 설치합니다. 
 
 ## 기본 사용법
 
