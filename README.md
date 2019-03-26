@@ -17,6 +17,9 @@ https://metamind.io/research/the-wikitext-long-term-dependency-language-modeling
 
 디렉토리의 최상위 레벨에서 `jupyter notebook` 명령어로 노트를 실행합니다.
 
+## IPython 
+[ 코드 돌려보기 (Colab) ](https://colab.research.google.com/github/edwithschoolofai/wiki_generator_live/blob/master/democodewiki.ipynb) 
+
 ## 참조 
 
 이 코드는 [kumikokashii](https://github.com/kumikokashii/lstm-text-generator) 의 코드를 참조하여 알기 쉽게 편성한 것입니다.
